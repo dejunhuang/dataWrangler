@@ -1,0 +1,16 @@
+# Eclipse gen files
+.classpath
+.project
+.settings/
+
+# Java compile files
+.class
+
+# output files
+target/
+
+# VS Code
+.vscode/
+
+# other files
+*.DS_Store
